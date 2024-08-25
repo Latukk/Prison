@@ -1,0 +1,90 @@
+mines:
+  1:
+    name: "Лиственная шахта v1"
+    description: "Шахта, полностью состоящая из дубовых листьев."
+    level: 1
+    material:
+      - OAK_LEAVES
+    world: world
+    spawn:
+      x: 58.500
+      y: 127
+      z: 72.500
+    mine:
+      x1: 52
+      y1: 126
+      z1: 57
+      x2: 64
+      y2: 117
+      z2: 69
+    gui-material: OAK_LEAVES
+    slot: 10
+
+  2:
+    name: "Лиственная шахта v2"
+    description: "Шахта, состоящая из смеси дубовых и берёзовых листьев."
+    level: 2
+    material:
+      - OAK_LEAVES
+      - BIRCH_LEAVES
+    world: world
+    spawn:
+      x: 75.500
+      y: 127
+      z: 72.500
+    mine:
+      x1: 69
+      y1: 126
+      z1: 57
+      x2: 81
+      y2: 117
+      z2: 69
+    gui-material: BIRCH_LEAVES
+    slot: 11
+
+  3:
+    name: "Лиственная шахта v3"
+    description: "Шахта, состоящая из смеси дубовых, еловых и берёзовых листьев."
+    level: 3
+    material:
+      - OAK_LEAVES
+      - BIRCH_LEAVES
+      - SPRUCE_LEAVES
+    world: world
+    spawn:
+      x: 92.500
+      y: 127
+      z: 72.500
+    mine:
+      x1: 86
+      y1: 126
+      z1: 57
+      x2: 98
+      y2: 117
+      z2: 69
+    gui-material: SPRUCE_LEAVES
+    slot: 12
+
+  4:
+    name: "Лиственная шахта v4"
+    description: "Шахта, состоящая из смеси дубовых, еловых, тропических и берёзовых листьев."
+    level: 4
+    material:
+      - OAK_LEAVES
+      - BIRCH_LEAVES
+      - SPRUCE_LEAVES
+      - JUNGLE_LEAVES
+    world: world
+    spawn:
+      x: 109.500
+      y: 127
+      z: 72.500
+    mine:
+      x1: 103
+      y1: 126
+      z1: 57
+      x2: 115
+      y2: 117
+      z2: 69
+    gui-material: JUNGLE_LEAVES
+    slot: 13

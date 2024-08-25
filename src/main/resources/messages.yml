@@ -1,0 +1,8 @@
+messages:
+  not-enough-money: "У вас недостаточно средств!"
+  not-enough-level: "У вас недостаточно уровня!"
+  not-enough-blocks: "У вас недостаточно блоков!"
+  not-enough-space-in-inventory: "У вас недостаточно места в инвентаре!"
+  not-enough-money-and-blocks: "У вас недостаточно средств и блоков!"
+  item-successfully-bought: "Предмет успешно куплен."
+  player-successfully-teleported-to-mine: "Вы успешно телепортировались на шахту."

@@ -1,0 +1,1106 @@
+items:
+  SHEARS:
+    levels:
+      1:
+        price: 0
+        enchantment-level: 0
+        lores:
+          name: "Ножницы"
+          description: "Ножницы. Хорошо режут листву"
+  SWORD:
+    slot: 10
+    descriptions:
+      WOODEN_SWORD:
+        name: "Деревянный меч"
+        lore: "Деревянный меч. Бьет, но не больно."
+      STONE_SWORD:
+        name: "Каменный меч"
+        lore: "Каменный меч. Бьет относительно больно."
+      IRON_SWORD:
+        name: "Железный меч"
+        lore: "Железный меч. Бьет больно, но не достаточно больно."
+      DIAMOND_SWORD:
+        name: "Алмазный меч"
+        lore: "Алмазный меч. Бьёт больно."
+    levels:
+      1:
+        price: 5000
+        blocks: 500
+        enchantment-level: 0
+        material: WOODEN_SWORD
+      2:
+        price: 7500
+        blocks: 1500
+        enchantment-level: 1
+        material: WOODEN_SWORD
+      3:
+        price: 10000
+        blocks: 2500
+        enchantment-level: 2
+        material: WOODEN_SWORD
+      4:
+        price: 12500
+        blocks: 4000
+        enchantment-level: 3
+        material: WOODEN_SWORD
+      5:
+        price: 15000
+        blocks: 5500
+        enchantment-level: 4
+        material: WOODEN_SWORD
+      6:
+        price: 17500
+        blocks: 7000
+        enchantment-level: 5
+        material: WOODEN_SWORD
+      7:
+        price: 20000
+        blocks: 8500
+        enchantment-level: 0
+        material: STONE_SWORD
+      8:
+        price: 22500
+        blocks: 10000
+        enchantment-level: 1
+        material: STONE_SWORD
+      9:
+        price: 25000
+        blocks: 12000
+        enchantment-level: 2
+        material: STONE_SWORD
+      10:
+        price: 27500
+        blocks: 14000
+        enchantment-level: 3
+        material: STONE_SWORD
+      11:
+        price: 30000
+        blocks: 16000
+        enchantment-level: 4
+        material: STONE_SWORD
+      12:
+        price: 32500
+        blocks: 18000
+        enchantment-level: 5
+        material: STONE_SWORD
+      13:
+        price: 35000
+        blocks: 20000
+        enchantment-level: 0
+        material: IRON_SWORD
+      14:
+        price: 37500
+        blocks: 22000
+        enchantment-level: 1
+        material: IRON_SWORD
+      15:
+        price: 40000
+        blocks: 24000
+        enchantment-level: 2
+        material: IRON_SWORD
+      16:
+        price: 42500
+        blocks: 26000
+        enchantment-level: 3
+        material: IRON_SWORD
+      17:
+        price: 45000
+        blocks: 28000
+        enchantment-level: 4
+        material: IRON_SWORD
+      18:
+        price: 47500
+        blocks: 30000
+        enchantment-level: 5
+        material: IRON_SWORD
+      19:
+        price: 50000
+        blocks: 32000
+        enchantment-level: 0
+        material: DIAMOND_SWORD
+      20:
+        price: 52500
+        blocks: 34000
+        enchantment-level: 1
+        material: DIAMOND_SWORD
+      21:
+        price: 55000
+        blocks: 36000
+        enchantment-level: 2
+        material: DIAMOND_SWORD
+      22:
+        price: 57500
+        blocks: 38000
+        enchantment-level: 3
+        material: DIAMOND_SWORD
+      23:
+        price: 60000
+        blocks: 40000
+        enchantment-level: 4
+        material: DIAMOND_SWORD
+      24:
+        price: 65000
+        blocks: 42000
+        enchantment-level: 5
+        material: DIAMOND_SWORD
+  PICKAXE:
+    slot: 11
+    descriptions:
+      WOODEN_PICKAXE:
+        name: "Деревянная кирка"
+        lore: "Деревянная кирка. Медленно, но верно копает камень."
+      STONE_PICKAXE:
+        name: "Каменная кирка"
+        lore: "Каменная кирка. Не очень быстро копает камень."
+      IRON_PICKAXE:
+        name: "Железная кирка"
+        lore: "Железная кирка. Довольно быстро копает камень."
+      DIAMOND_PICKAXE:
+        name: "Алмазная кирка"
+        lore: "Алмазная кирка. Быстро копает камень."
+    levels:
+      # Деревянная кирка
+      1:
+        price: 3000
+        blocks: 500
+        enchantment-level: 0
+        material: WOODEN_PICKAXE
+      2:
+        price: 3500
+        blocks: 1500
+        enchantment-level: 1
+        material: WOODEN_PICKAXE
+      3:
+        price: 4000
+        blocks: 2500
+        enchantment-level: 2
+        material: WOODEN_PICKAXE
+      4:
+        price: 4500
+        blocks: 4000
+        enchantment-level: 3
+        material: WOODEN_PICKAXE
+      5:
+        price: 5000
+        blocks: 5500
+        enchantment-level: 4
+        material: WOODEN_PICKAXE
+      6:
+        price: 5500
+        blocks: 7000
+        enchantment-level: 5
+        material: WOODEN_PICKAXE
+      # Каменная кирка
+      7:
+        price: 7500
+        blocks: 9000
+        enchantment-level: 0
+        material: STONE_PICKAXE
+      8:
+        price: 10000
+        blocks: 11000
+        enchantment-level: 1
+        material: STONE_PICKAXE
+      9:
+        price: 12500
+        blocks: 12000
+        enchantment-level: 2
+        material: STONE_PICKAXE
+      10:
+        price: 15000
+        blocks: 13000
+        enchantment-level: 3
+        material: STONE_PICKAXE
+      11:
+        price: 17500
+        blocks: 14000
+        enchantment-level: 4
+        material: STONE_PICKAXE
+      12:
+        price: 20000
+        blocks: 15000
+        enchantment-level: 5
+        material: STONE_PICKAXE
+      # Железная кирка
+      13:
+        price: 25000
+        blocks: 20000
+        enchantment-level: 0
+        material: IRON_PICKAXE
+      14:
+        price: 30000
+        blocks: 25000
+        enchantment-level: 1
+        material: IRON_PICKAXE
+      15:
+        price: 35000
+        blocks: 30000
+        enchantment-level: 2
+        material: IRON_PICKAXE
+      16:
+        price: 40000
+        blocks: 35000
+        enchantment-level: 3
+        material: IRON_PICKAXE
+      17:
+        price: 45000
+        blocks: 40000
+        enchantment-level: 4
+        material: IRON_PICKAXE
+      18:
+        price: 50000
+        blocks: 50000
+        enchantment-level: 5
+        material: IRON_PICKAXE
+      # Алмазная кирка
+      19:
+        price: 60000
+        blocks: 60000
+        enchantment-level: 0
+        material: DIAMOND_PICKAXE
+      20:
+        price: 70000
+        blocks: 70000
+        enchantment-level: 1
+        material: DIAMOND_PICKAXE
+      21:
+        price: 80000
+        blocks: 80000
+        enchantment-level: 2
+        material: DIAMOND_PICKAXE
+      22:
+        price: 90000
+        blocks: 90000
+        enchantment-level: 3
+        material: DIAMOND_PICKAXE
+      23:
+        price: 100000
+        blocks: 100000
+        enchantment-level: 4
+        material: DIAMOND_PICKAXE
+      24:
+        price: 110000
+        blocks: 110000
+        enchantment-level: 5
+        material: DIAMOND_PICKAXE
+      25:
+        price: 120000
+        blocks: 120000
+        enchantment-level: 6
+        material: DIAMOND_PICKAXE
+      26:
+        price: 130000
+        blocks: 130000
+        enchantment-level: 7
+        material: DIAMOND_PICKAXE
+      27:
+        price: 140000
+        blocks: 140000
+        enchantment-level: 8
+        material: DIAMOND_PICKAXE
+      28:
+        price: 150000
+        blocks: 150000
+        enchantment-level: 9
+        material: DIAMOND_PICKAXE
+      29:
+        price: 160000
+        blocks: 160000
+        enchantment-level: 10
+        material: DIAMOND_PICKAXE
+  AXE:
+    slot: 12
+    descriptions:
+      WOODEN_AXE:
+        name: "Деревянный топор"
+        lore: "Деревянный топор. Срубает деревья, но медленно."
+      STONE_AXE:
+        name: "Каменный топор"
+        lore: "Каменный топор. Срубает деревья быстрее."
+      IRON_AXE:
+        name: "Железный топор"
+        lore: "Железный топор. Очень эффективно срубает деревья."
+      DIAMOND_AXE:
+        name: "Алмазный топор"
+        lore: "Алмазный топор. Срубает деревья быстро и эффективно."
+    levels:
+      1:
+        price: 4000
+        blocks: 500
+        enchantment-level: 0
+        material: WOODEN_AXE
+      2:
+        price: 4500
+        blocks: 1500
+        enchantment-level: 1
+        material: WOODEN_AXE
+      3:
+        price: 5000
+        blocks: 2500
+        enchantment-level: 2
+        material: WOODEN_AXE
+      4:
+        price: 5500
+        blocks: 4000
+        enchantment-level: 3
+        material: WOODEN_AXE
+      5:
+        price: 6000
+        blocks: 5500
+        enchantment-level: 4
+        material: WOODEN_AXE
+      6:
+        price: 6500
+        blocks: 7000
+        enchantment-level: 5
+        material: WOODEN_AXE
+      7:
+        price: 8500
+        blocks: 9000
+        enchantment-level: 0
+        material: STONE_AXE
+      8:
+        price: 10000
+        blocks: 11000
+        enchantment-level: 1
+        material: STONE_AXE
+      9:
+        price: 12500
+        blocks: 12000
+        enchantment-level: 2
+        material: STONE_AXE
+      10:
+        price: 15000
+        blocks: 13000
+        enchantment-level: 3
+        material: STONE_AXE
+      11:
+        price: 17500
+        blocks: 14000
+        enchantment-level: 4
+        material: STONE_AXE
+      12:
+        price: 20000
+        blocks: 15000
+        enchantment-level: 5
+        material: STONE_AXE
+      13:
+        price: 25000
+        blocks: 20000
+        enchantment-level: 0
+        material: IRON_AXE
+      14:
+        price: 30000
+        blocks: 25000
+        enchantment-level: 1
+        material: IRON_AXE
+      15:
+        price: 35000
+        blocks: 30000
+        enchantment-level: 2
+        material: IRON_AXE
+      16:
+        price: 40000
+        blocks: 35000
+        enchantment-level: 3
+        material: IRON_AXE
+      17:
+        price: 45000
+        blocks: 40000
+        enchantment-level: 4
+        material: IRON_AXE
+      18:
+        price: 50000
+        blocks: 50000
+        enchantment-level: 5
+        material: IRON_AXE
+      19:
+        price: 60000
+        blocks: 60000
+        enchantment-level: 0
+        material: DIAMOND_AXE
+      20:
+        price: 70000
+        blocks: 70000
+        enchantment-level: 1
+        material: DIAMOND_AXE
+      21:
+        price: 80000
+        blocks: 80000
+        enchantment-level: 2
+        material: DIAMOND_AXE
+      22:
+        price: 90000
+        blocks: 90000
+        enchantment-level: 3
+        material: DIAMOND_AXE
+      23:
+        price: 100000
+        blocks: 100000
+        enchantment-level: 4
+        material: DIAMOND_AXE
+      24:
+        price: 110000
+        blocks: 110000
+        enchantment-level: 5
+        material: DIAMOND_AXE
+  SHOVEL:
+    slot: 13
+    descriptions:
+      WOODEN_SHOVEL:
+        name: "Деревянная лопата"
+        lore: "Деревянная лопата. Ломает землю, но медленно."
+      STONE_SHOVEL:
+        name: "Каменная лопата"
+        lore: "Каменная лопата. Ломает землю быстрее."
+      IRON_SHOVEL:
+        name: "Железная лопата"
+        lore: "Железная лопата. Эффективно ломает землю."
+      DIAMOND_SHOVEL:
+        name: "Алмазная лопата"
+        lore: "Алмазная лопата. Ломает землю быстро и эффективно."
+    levels:
+      1:
+        price: 2500
+        blocks: 500
+        enchantment-level: 0
+        material: WOODEN_SHOVEL
+      2:
+        price: 3000
+        blocks: 1500
+        enchantment-level: 1
+        material: WOODEN_SHOVEL
+      3:
+        price: 3500
+        blocks: 2500
+        enchantment-level: 2
+        material: WOODEN_SHOVEL
+      4:
+        price: 4000
+        blocks: 4000
+        enchantment-level: 3
+        material: WOODEN_SHOVEL
+      5:
+        price: 4500
+        blocks: 5500
+        enchantment-level: 4
+        material: WOODEN_SHOVEL
+      6:
+        price: 5000
+        blocks: 7000
+        enchantment-level: 5
+        material: WOODEN_SHOVEL
+      7:
+        price: 6500
+        blocks: 9000
+        enchantment-level: 0
+        material: STONE_SHOVEL
+      8:
+        price: 8000
+        blocks: 11000
+        enchantment-level: 1
+        material: STONE_SHOVEL
+      9:
+        price: 9500
+        blocks: 12000
+        enchantment-level: 2
+        material: STONE_SHOVEL
+      10:
+        price: 11000
+        blocks: 13000
+        enchantment-level: 3
+        material: STONE_SHOVEL
+      11:
+        price: 12500
+        blocks: 14000
+        enchantment-level: 4
+        material: STONE_SHOVEL
+      12:
+        price: 14000
+        blocks: 15000
+        enchantment-level: 5
+        material: STONE_SHOVEL
+      13:
+        price: 17500
+        blocks: 20000
+        enchantment-level: 0
+        material: IRON_SHOVEL
+      14:
+        price: 20000
+        blocks: 25000
+        enchantment-level: 1
+        material: IRON_SHOVEL
+      15:
+        price: 22500
+        blocks: 30000
+        enchantment-level: 2
+        material: IRON_SHOVEL
+      16:
+        price: 25000
+        blocks: 35000
+        enchantment-level: 3
+        material: IRON_SHOVEL
+      17:
+        price: 27500
+        blocks: 40000
+        enchantment-level: 4
+        material: IRON_SHOVEL
+      18:
+        price: 30000
+        blocks: 50000
+        enchantment-level: 5
+        material: IRON_SHOVEL
+      19:
+        price: 35000
+        blocks: 60000
+        enchantment-level: 0
+        material: DIAMOND_SHOVEL
+      20:
+        price: 40000
+        blocks: 70000
+        enchantment-level: 1
+        material: DIAMOND_SHOVEL
+      21:
+        price: 45000
+        blocks: 80000
+        enchantment-level: 2
+        material: DIAMOND_SHOVEL
+      22:
+        price: 50000
+        blocks: 90000
+        enchantment-level: 3
+        material: DIAMOND_SHOVEL
+      23:
+        price: 55000
+        blocks: 100000
+        enchantment-level: 4
+        material: DIAMOND_SHOVEL
+      24:
+        price: 60000
+        blocks: 110000
+        enchantment-level: 5
+        material: DIAMOND_SHOVEL
+  BOOTS:
+    slot: 14
+    descriptions:
+      LEATHER_BOOTS:
+        name: "Кожаные ботинки"
+        lore: "Кожаные ботинки. Самые модные на районе, защищают не очень."
+      IRON_BOOTS:
+        name: "Железные ботинки"
+        lore: "Железные ботинки. Защищают хорошо, но не так как алмазные."
+      DIAMOND_BOOTS:
+        name: "Алмазные ботинки"
+        lore: "Алмазные ботинки. Хорошо защищают."
+    levels:
+      # Кожаные ботинки
+      1:
+        price: 3000
+        blocks: 500
+        enchantment-level: 0
+        material: LEATHER_BOOTS
+      2:
+        price: 3500
+        blocks: 1500
+        enchantment-level: 1
+        material: LEATHER_BOOTS
+      3:
+        price: 4000
+        blocks: 2500
+        enchantment-level: 2
+        material: LEATHER_BOOTS
+      4:
+        price: 4500
+        blocks: 4000
+        enchantment-level: 3
+        material: LEATHER_BOOTS
+      5:
+        price: 5000
+        blocks: 5500
+        enchantment-level: 4
+        material: LEATHER_BOOTS
+      6:
+        price: 5500
+        blocks: 7000
+        enchantment-level: 5
+        material: LEATHER_BOOTS
+      # Железные ботинки
+      7:
+        price: 25000
+        blocks: 20000
+        enchantment-level: 0
+        material: IRON_BOOTS
+      8:
+        price: 30000
+        blocks: 25000
+        enchantment-level: 1
+        material: IRON_BOOTS
+      9:
+        price: 35000
+        blocks: 30000
+        enchantment-level: 2
+        material: IRON_BOOTS
+      10:
+        price: 40000
+        blocks: 35000
+        enchantment-level: 3
+        material: IRON_BOOTS
+      11:
+        price: 45000
+        blocks: 40000
+        enchantment-level: 4
+        material: IRON_BOOTS
+      12:
+        price: 50000
+        blocks: 50000
+        enchantment-level: 5
+        material: IRON_BOOTS
+      # Алмазные ботинки
+      13:
+        price: 60000
+        blocks: 60000
+        enchantment-level: 0
+        material: DIAMOND_BOOTS
+      14:
+        price: 70000
+        blocks: 70000
+        enchantment-level: 1
+        material: DIAMOND_BOOTS
+      15:
+        price: 80000
+        blocks: 80000
+        enchantment-level: 2
+        material: DIAMOND_BOOTS
+      16:
+        price: 90000
+        blocks: 90000
+        enchantment-level: 3
+        material: DIAMOND_BOOTS
+      17:
+        price: 100000
+        blocks: 100000
+        enchantment-level: 4
+        material: DIAMOND_BOOTS
+      18:
+        price: 110000
+        blocks: 110000
+        enchantment-level: 5
+        material: DIAMOND_BOOTS
+      19:
+        price: 120000
+        blocks: 120000
+        enchantment-level: 6
+        material: DIAMOND_BOOTS
+      20:
+        price: 130000
+        blocks: 130000
+        enchantment-level: 7
+        material: DIAMOND_BOOTS
+      21:
+        price: 140000
+        blocks: 140000
+        enchantment-level: 8
+        material: DIAMOND_BOOTS
+      22:
+        price: 150000
+        blocks: 150000
+        enchantment-level: 9
+        material: DIAMOND_BOOTS
+      23:
+        price: 160000
+        blocks: 160000
+        enchantment-level: 10
+        material: DIAMOND_BOOTS
+  LEGGINGS:
+    slot: 15
+    descriptions:
+      LEATHER_LEGGINGS:
+        name: "Кожаные штаны"
+        lore: "Кожаные штаны. Самые модные на районе, защищают не очень."
+      IRON_LEGGINGS:
+        name: "Железные штаны"
+        lore: "Железные штаны. Защищают хорошо, но не так как алмазные."
+      DIAMOND_LEGGINGS:
+        name: "Алмазные штаны"
+        lore: "Алмазные штаны. Хорошо защищают."
+    levels:
+      # Кожаные штаны
+      1:
+        price: 3000
+        blocks: 500
+        enchantment-level: 0
+        material: LEATHER_LEGGINGS
+      2:
+        price: 3500
+        blocks: 1500
+        enchantment-level: 1
+        material: LEATHER_LEGGINGS
+      3:
+        price: 4000
+        blocks: 2500
+        enchantment-level: 2
+        material: LEATHER_LEGGINGS
+      4:
+        price: 4500
+        blocks: 4000
+        enchantment-level: 3
+        material: LEATHER_LEGGINGS
+      5:
+        price: 5000
+        blocks: 5500
+        enchantment-level: 4
+        material: LEATHER_LEGGINGS
+      6:
+        price: 5500
+        blocks: 7000
+        enchantment-level: 5
+        material: LEATHER_LEGGINGS
+      # Железные штаны
+      7:
+        price: 25000
+        blocks: 20000
+        enchantment-level: 0
+        material: IRON_LEGGINGS
+      8:
+        price: 30000
+        blocks: 25000
+        enchantment-level: 1
+        material: IRON_LEGGINGS
+      9:
+        price: 35000
+        blocks: 30000
+        enchantment-level: 2
+        material: IRON_LEGGINGS
+      10:
+        price: 40000
+        blocks: 35000
+        enchantment-level: 3
+        material: IRON_LEGGINGS
+      11:
+        price: 45000
+        blocks: 40000
+        enchantment-level: 4
+        material: IRON_LEGGINGS
+      12:
+        price: 50000
+        blocks: 50000
+        enchantment-level: 5
+        material: IRON_LEGGINGS
+      # Алмазные штаны
+      13:
+        price: 60000
+        blocks: 60000
+        enchantment-level: 0
+        material: DIAMOND_LEGGINGS
+      14:
+        price: 70000
+        blocks: 70000
+        enchantment-level: 1
+        material: DIAMOND_LEGGINGS
+      15:
+        price: 80000
+        blocks: 80000
+        enchantment-level: 2
+        material: DIAMOND_LEGGINGS
+      16:
+        price: 90000
+        blocks: 90000
+        enchantment-level: 3
+        material: DIAMOND_LEGGINGS
+      17:
+        price: 100000
+        blocks: 100000
+        enchantment-level: 4
+        material: DIAMOND_LEGGINGS
+      18:
+        price: 110000
+        blocks: 110000
+        enchantment-level: 5
+        material: DIAMOND_LEGGINGS
+      19:
+        price: 120000
+        blocks: 120000
+        enchantment-level: 6
+        material: DIAMOND_LEGGINGS
+      20:
+        price: 130000
+        blocks: 130000
+        enchantment-level: 7
+        material: DIAMOND_LEGGINGS
+      21:
+        price: 140000
+        blocks: 140000
+        enchantment-level: 8
+        material: DIAMOND_LEGGINGS
+      22:
+        price: 150000
+        blocks: 150000
+        enchantment-level: 9
+        material: DIAMOND_LEGGINGS
+      23:
+        price: 160000
+        blocks: 160000
+        enchantment-level: 10
+        material: DIAMOND_LEGGINGS
+  CHESTPLATE:
+    slot: 16
+    descriptions:
+      LEATHER_CHESTPLATE:
+        name: "Кожаный нагрудник"
+        lore: "Кожаный нагрудник. Самый модный на районе, защищает не очень."
+      IRON_CHESTPLATE:
+        name: "Железный нагрудник"
+        lore: "Железный нагрудник. Защищает хорошо, но не так как алмазный."
+      DIAMOND_CHESTPLATE:
+        name: "Алмазный нагрудник"
+        lore: "Алмазный нагрудник. Хорошо защищает."
+    levels:
+      # Кожаный нагрудник
+      1:
+        price: 3000
+        blocks: 500
+        enchantment-level: 0
+        material: LEATHER_CHESTPLATE
+      2:
+        price: 3500
+        blocks: 1500
+        enchantment-level: 1
+        material: LEATHER_CHESTPLATE
+      3:
+        price: 4000
+        blocks: 2500
+        enchantment-level: 2
+        material: LEATHER_CHESTPLATE
+      4:
+        price: 4500
+        blocks: 4000
+        enchantment-level: 3
+        material: LEATHER_CHESTPLATE
+      5:
+        price: 5000
+        blocks: 5500
+        enchantment-level: 4
+        material: LEATHER_CHESTPLATE
+      6:
+        price: 5500
+        blocks: 7000
+        enchantment-level: 5
+        material: LEATHER_CHESTPLATE
+      # Железный нагрудник
+      7:
+        price: 25000
+        blocks: 20000
+        enchantment-level: 0
+        material: IRON_CHESTPLATE
+      8:
+        price: 30000
+        blocks: 25000
+        enchantment-level: 1
+        material: IRON_CHESTPLATE
+      9:
+        price: 35000
+        blocks: 30000
+        enchantment-level: 2
+        material: IRON_CHESTPLATE
+      10:
+        price: 40000
+        blocks: 35000
+        enchantment-level: 3
+        material: IRON_CHESTPLATE
+      11:
+        price: 45000
+        blocks: 40000
+        enchantment-level: 4
+        material: IRON_CHESTPLATE
+      12:
+        price: 50000
+        blocks: 50000
+        enchantment-level: 5
+        material: IRON_CHESTPLATE
+      # Алмазный нагрудник
+      13:
+        price: 60000
+        blocks: 60000
+        enchantment-level: 0
+        material: DIAMOND_CHESTPLATE
+      14:
+        price: 70000
+        blocks: 70000
+        enchantment-level: 1
+        material: DIAMOND_CHESTPLATE
+      15:
+        price: 80000
+        blocks: 80000
+        enchantment-level: 2
+        material: DIAMOND_CHESTPLATE
+      16:
+        price: 90000
+        blocks: 90000
+        enchantment-level: 3
+        material: DIAMOND_CHESTPLATE
+      17:
+        price: 100000
+        blocks: 100000
+        enchantment-level: 4
+        material: DIAMOND_CHESTPLATE
+      18:
+        price: 110000
+        blocks: 110000
+        enchantment-level: 5
+        material: DIAMOND_CHESTPLATE
+      19:
+        price: 120000
+        blocks: 120000
+        enchantment-level: 6
+        material: DIAMOND_CHESTPLATE
+      20:
+        price: 130000
+        blocks: 130000
+        enchantment-level: 7
+        material: DIAMOND_CHESTPLATE
+      21:
+        price: 140000
+        blocks: 140000
+        enchantment-level: 8
+        material: DIAMOND_CHESTPLATE
+      22:
+        price: 150000
+        blocks: 150000
+        enchantment-level: 9
+        material: DIAMOND_CHESTPLATE
+      23:
+        price: 160000
+        blocks: 160000
+        enchantment-level: 10
+        material: DIAMOND_CHESTPLATE
+  HELMET:
+    slot: 17
+    descriptions:
+      LEATHER_HELMET:
+        name: "Кожаный шлем"
+        lore: "Кожаный шлем. Самый модный на районе, защищает не очень."
+      IRON_HELMET:
+        name: "Железный шлем"
+        lore: "Железный шлем. Защищает хорошо, но не так как алмазный."
+      DIAMOND_HELMET:
+        name: "Алмазный шлем"
+        lore: "Алмазный шлем. Хорошо защищает."
+    levels:
+      # Кожаный шлем
+      1:
+        price: 3000
+        blocks: 500
+        enchantment-level: 0
+        material: LEATHER_HELMET
+      2:
+        price: 3500
+        blocks: 1500
+        enchantment-level: 1
+        material: LEATHER_HELMET
+      3:
+        price: 4000
+        blocks: 2500
+        enchantment-level: 2
+        material: LEATHER_HELMET
+      4:
+        price: 4500
+        blocks: 4000
+        enchantment-level: 3
+        material: LEATHER_HELMET
+      5:
+        price: 5000
+        blocks: 5500
+        enchantment-level: 4
+        material: LEATHER_HELMET
+      6:
+        price: 5500
+        blocks: 7000
+        enchantment-level: 5
+        material: LEATHER_HELMET
+      # Железный шлем
+      7:
+        price: 25000
+        blocks: 20000
+        enchantment-level: 0
+        material: IRON_HELMET
+      8:
+        price: 30000
+        blocks: 25000
+        enchantment-level: 1
+        material: IRON_HELMET
+      9:
+        price: 35000
+        blocks: 30000
+        enchantment-level: 2
+        material: IRON_HELMET
+      10:
+        price: 40000
+        blocks: 35000
+        enchantment-level: 3
+        material: IRON_HELMET
+      11:
+        price: 45000
+        blocks: 40000
+        enchantment-level: 4
+        material: IRON_HELMET
+      12:
+        price: 50000
+        blocks: 50000
+        enchantment-level: 5
+        material: IRON_HELMET
+      # Алмазный шлем
+      13:
+        price: 60000
+        blocks: 60000
+        enchantment-level: 0
+        material: DIAMOND_HELMET
+      14:
+        price: 70000
+        blocks: 70000
+        enchantment-level: 1
+        material: DIAMOND_HELMET
+      15:
+        price: 80000
+        blocks: 80000
+        enchantment-level: 2
+        material: DIAMOND_HELMET
+      16:
+        price: 90000
+        blocks: 90000
+        enchantment-level: 3
+        material: DIAMOND_HELMET
+      17:
+        price: 100000
+        blocks: 100000
+        enchantment-level: 4
+        material: DIAMOND_HELMET
+      18:
+        price: 110000
+        blocks: 110000
+        enchantment-level: 5
+        material: DIAMOND_HELMET
+      19:
+        price: 120000
+        blocks: 120000
+        enchantment-level: 6
+        material: DIAMOND_HELMET
+      20:
+        price: 130000
+        blocks: 130000
+        enchantment-level: 7
+        material: DIAMOND_HELMET
+      21:
+        price: 140000
+        blocks: 140000
+        enchantment-level: 8
+        material: DIAMOND_HELMET
+      22:
+        price: 150000
+        blocks: 150000
+        enchantment-level: 9
+        material: DIAMOND_HELMET
+      23:
+        price: 160000
+        blocks: 160000
+        enchantment-level: 10
+        material: DIAMOND_HELMET

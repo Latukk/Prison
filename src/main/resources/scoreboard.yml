@@ -1,0 +1,18 @@
+# SCOREBOARD
+# Цвет - &код
+# %server-name% - Название сервера
+# %server-online% - Количество игроков на сервере
+# %player-name% - Никнейм игрока
+# %blocks% - Количество блоков игрока
+# %money% - Количество денег игрока
+# %level% - Уровень игрока
+
+scoreboard:
+  - "&aPrison by Latuk"
+  - ""
+  - "&fНикнейм: &7%player-name%"
+  - "&fУровень: &7%level%"
+  - "&fБлоки: &7%blocks%"
+  - "&fДеньги: &7%money%"
+  - "&fИгроки: &7%server-online%"
+server-name: "&bMy Server"

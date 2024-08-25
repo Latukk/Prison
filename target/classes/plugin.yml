@@ -1,0 +1,22 @@
+name: Prison
+version: '1.0-SNAPSHOT'
+main: org.latuk.prison.Prison
+api-version: '1.16'
+commands:
+  shop:
+    description: shop command
+  sell:
+    description: sell items command
+  mines:
+    description: mines command
+  lvl:
+    description: level command
+    aliases:
+      - level
+      - lvlup
+      - levelup
+      - дмд
+      - дмдгз
+      - думудгз
+  menu:
+    description: menu command

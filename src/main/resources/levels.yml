@@ -1,0 +1,10 @@
+levels:
+  1:
+    price: 0
+    blocks: 0
+  2:
+    price: 500
+    blocks: 500
+  3:
+    price: 1500
+    blocks: 1500
